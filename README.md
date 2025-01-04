@@ -2,9 +2,9 @@
 <img src="/readme_images/wayback machine.gif"></img>
 
 The base MacWeb 2.0 browser (1996) with the following changes/additions applied to enhance compatibility with black and white Macs like the Macintosh Plus:
-- applied Antoine Hébert's unofficial 2.0c patch (1998) that fixes a "blackout" bug that occurs when pages have a background color set
+- applied Antoine Hébert's unofficial 2.0c patch (1998), which fixes a "blackout" bug that occurs when pages have a background color set
 - used ResEdit to clean up user interface elements for better rendering on 1-bit black and white displays
-- packaged in .HDA format for compatibility with harddrive emulators like [BlueSCSI](https://bluescsi.com/) and software emulators like [Infinite Mac](https://infinitemac.org/1996/System%207.5.3)
+- packaged in .HDA format for compatibility with hard drive emulators like [BlueSCSI](https://bluescsi.com/) and software emulators like [Infinite Mac](https://infinitemac.org/1996/System%207.5.3)
 - alternatively packaged as a .SIT archive (created with StuffIt Deluxe™ 5.5) if that's more your speed
 - included a modified version of the GIFWatcher Desk Accessory (created using Desk Accessory Piggyback) that runs as a standard application. Set it as the "helper" application for .GIF files, and GIFWatcher will open them automatically when you request them. Thanks to Chris Adams of the Mac SE Support Pages ([archived here](https://ia800100.us.archive.org/0/items/macweb-evolt_browsers/macweb.htm)) for this workaround:
 
