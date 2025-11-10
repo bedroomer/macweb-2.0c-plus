@@ -6,7 +6,7 @@ The base MacWeb 2.0 browser (1996) with the following changes/additions applied 
 - used ResEdit to clean up user interface elements for better rendering on 1-bit black and white displays
 - includes Internet Config 1.4
 - packaged in .HDA format for compatibility with hard drive emulators like [BlueSCSI](https://bluescsi.com/) and software emulators like [Infinite Mac](https://infinitemac.org/1996/System%207.5.3)
-- alternatively packaged as a multiple Stuffit (.SIT) archives:
+- alternatively packaged as multiple Stuffit (.SIT) archives:
     - MacWeb2.0c+.sea: a self-extracting archive that does not require Stuffit expander
     - MacWeb2.0c+.sit: a standard archive created in Stuffit Deluxe 3.5.1
     - MacWeb 2.0c+ 1.5.1: a Stuffit 1.5.1 archive for maximum compatibility
